@@ -5,8 +5,8 @@ To start the project run commands:
 3. Open in your browser:
     localhost:8000
 
-To stop:
+To stop:    
 4. CTRL+C
 
-To remove image:
+To remove image:    
 5. docker-compose down --rmi all
